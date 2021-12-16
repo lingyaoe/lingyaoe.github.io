@@ -1,0 +1,10 @@
+﻿---
+layout: post
+title: software
+date: 2021-12-06
+categories: test
+tags: software 
+---
+
+software
+12213124
